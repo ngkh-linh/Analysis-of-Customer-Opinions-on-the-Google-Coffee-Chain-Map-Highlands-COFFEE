@@ -1,0 +1,9 @@
+Giải thích các files:
+
++ Highlands_coffee_Selenium.ipynb: Đây là mã code để thu thập dữ liệu khách hàng đã sử dụng dịch vụ của Highland trong toàn khu vực quận 10 trên Google Maps.
+
++ KLTN_NGUYEN_KHANH_LINH_31201024500.ipynb: Đây là mã code để phân tích dữ liệu khách hàng đã thu thập được (Bao gồm TXL, model, text mining,...)
+
++ data_reviews.csv: là dữ liệu đã thu thập được.
+
++ vietnamese-stopwords-dash.txt, vietnamese-stopwords.txt, vncorenlp: Đây là các file hỗ trợ cho quá trình tách từ, khử stop-words, và các tác vụ NLP khác.(Do file nặng nên em xin đẩy file lên drive mà không đưa vô thư mục nộp: https://drive.google.com/drive/folders/1W32X-jj_inWA1htwoid6B4EUtIgcW4OZ?usp=share_link )
